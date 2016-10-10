@@ -6,7 +6,7 @@
 
 Symbolically represented reputation can be regarded as a meta-currency. Like money, reputation gives us access to opportunities, relationships, and resources.
 
-Reputation data is primarily siloed into centralized systems like Facebook, Linkedin, Upwork, and many others. Because of this the value of reputation on these platforms is limited, for both commerce and accreditation. This value may also disappear unexpectedly when centralized services shut down. Both users and platforms can increase the value of reputation "currency" by adopting portable reputation protocols.
+Reputation information about people's skills is primarily siloed into centralized systems like Linkedin and Upwork. Because of this the value of reputation on these platforms is limited, for both commerce and accreditation. This value may also disappear unexpectedly when centralized services shut down. Both users and platforms can increase the value of reputation "currency" by adopting portable reputation protocols.
 
 ## The Role of Blockchains
 
