@@ -34,7 +34,7 @@ _Unlike_ reputation currencies, a useful currency is also:
 
 When all these characteristics are satisfied, money can be an effective store of value, unit of account, and medium of exchange.
 
-Reputation requires a different but related set of properties.  A desirable reputation currency is:
+Reputation requires a different but overlapping set of properties.  A desirable reputation currency is:
 * Verifiable - Reputation is issued by an identity to another identity. Public and private keys are well suited to this.
 * Portable - Reputation can be moved from system to system with minimal friction. Portability increases the value of reputation.
 * Non-forgeable - Like currency, the account of the reputation issuer and receiver must be securely controlled.
